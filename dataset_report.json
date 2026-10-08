@@ -1,0 +1,2949 @@
+{
+    "riftcodex_records_downloaded": 1451,
+    "sets_discovered": [
+        "JDG",
+        "OGN",
+        "OGS",
+        "OPP",
+        "PR",
+        "SFD",
+        "UNL",
+        "VEN"
+    ],
+    "excluded_sets": [
+        "RAD"
+    ],
+    "api_cards_removed_from_excluded_sets": 0,
+    "riftdecks_records": 734,
+    "riftdecks_excluded_records": 0,
+    "unique_cards_saved": 1316,
+    "cards_with_stats": 733,
+    "cards_without_stats": 583,
+    "riftdecks_records_failed_to_match": 1,
+    "cards_missing_stats": [
+        {
+            "name": "Blue Sentinel",
+            "set": "JDG",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Svellsongur",
+            "set": "JDG",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Heimerdinger - Inventor",
+            "set": "JDG",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vanguard Sergeant",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Petty Officer",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Order Rune (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Order Rune",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Yasuo - Windrider (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jinx - Rebel (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sett - Kingpin (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Commander Ledros",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Miss Fortune - Captain (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Leona - Determined (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Karma - Channeler",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Albus Ferros",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vanguard Helm",
+            "set": "OGN",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Symbol of the Solari",
+            "set": "OGN",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Peak Guardian",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stealthy Pursuer",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Shipyard Skulker",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sai Scout",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fight or Flight",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Chaos Rune (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Chaos Rune",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Sett - Brawler (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Twisted Fate - Gambler",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Teemo - Scout (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Miss Fortune - Buccaneer (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Miss Fortune - Buccaneer",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kog'Maw - Caustic",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Scrapheap",
+            "set": "OGN",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Ahri - Nine-Tailed Fox (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Darius - Hand of Noxus (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Darius - Hand of Noxus (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jinx - Loose Cannon (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jinx - Loose Cannon (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Volibear - Relentless Storm (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Volibear - Relentless Storm (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kai'Sa - Daughter of the Void (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kai'Sa - Daughter of the Void (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ahri - Nine-Tailed Fox (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "The Dreaming Tree",
+            "set": "OGN",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "The Arena's Greatest",
+            "set": "OGN",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "Miss Fortune - Bounty Hunter (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Sprite (274) // Buff",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Recruit (273) // Buff",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Recruit (272) // Buff",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Recruit (271) // Buff",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ahri - Inquisitive (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Viktor - Innovator (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sett - The Boss (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Sett - The Boss (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Miss Fortune - Bounty Hunter (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Viktor - Herald of the Arcane (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Viktor - Herald of the Arcane (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Teemo - Swift Scout (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Teemo - Swift Scout (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Leona - Radiant Dawn (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Leona - Radiant Dawn (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Yasuo - Unforgiven (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Yasuo - Unforgiven (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lee Sin - Blind Monk (Signature)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lee Sin - Blind Monk (Overnumbered)",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Last Breath",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Yasuo - Unforgiven",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Dragon's Rage",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Lee Sin - Blind Monk",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ahri - Nine-Tailed Fox",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Darius - Hand of Noxus",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jinx - Loose Cannon",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Leona - Radiant Dawn",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Volibear - Relentless Storm",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kai'Sa - Daughter of the Void",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Viktor - Leader (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Darius - Executioner (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Reaver's Row",
+            "set": "OGN",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "Obelisk of Power",
+            "set": "OGN",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "Aspirant's Climb",
+            "set": "OGN",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "Sett - The Boss",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Miss Fortune - Bounty Hunter",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Siphon Power",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Viktor - Herald of the Arcane",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Teemo - Swift Scout",
+            "set": "OGN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Poro Herder",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Eclipse Herald",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Playful Phantom",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Calm Rune (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Calm Rune",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Volibear - Furious (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Leona - Zealot (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lee Sin - Ascetic (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lee Sin - Ascetic",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yasuo - Remorseful (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yasuo - Remorseful",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Party Favors",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Mageseeker Warden",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ahri - Alluring (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Spirit's Refuge",
+            "set": "OGN",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Scrapyard Champion",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Raging Soul",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Captain Farron",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fury Rune (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Fury Rune",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Raging Firebrand",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kai'Sa - Survivor (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jinx - Demolitionist (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Darius - Trifarian (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Blind Fury",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Crackshot Corsair",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mountain Drake",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Cannon Barrage",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Body Rune (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Body Rune",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Bilgewater Bully",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Teemo - Strategist (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mistfall",
+            "set": "OGN",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Volibear - Imposing (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Volibear - Imposing",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Udyr - Wildman",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Overt Operation",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Lee Sin - Centered (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kraken Hunter",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Wildclaw Shaman",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Wallop",
+            "set": "OGN",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Mind Rune (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Mind Rune",
+            "set": "OGN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Jeweled Colossus",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Wraith of Echoes",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Malzahar - Fanatic",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kai'Sa - Evolutionary (Alternate Art)",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ekko - Recurrent",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ava Achiever",
+            "set": "OGN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Decisive Strike",
+            "set": "OGS",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Garen - Might of Demacia (Starter)",
+            "set": "OGS",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lux - Lady of Luminosity (Starter)",
+            "set": "OGS",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Master Yi - Wuju Bladesman (Starter)",
+            "set": "OGS",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Annie - Dark Child (Starter)",
+            "set": "OGS",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Vanguard Attendant",
+            "set": "OGS",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Garen - Commander",
+            "set": "OGS",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Firestorm",
+            "set": "OGS",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Incinerate",
+            "set": "OGS",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Master Yi - Meditative",
+            "set": "OGS",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Zephyr Sage",
+            "set": "OGS",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lux - Illuminated",
+            "set": "OGS",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Garen - Rugged",
+            "set": "OGS",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Gentlemen's Duel",
+            "set": "OGS",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Blast of Power",
+            "set": "OGS",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Calm Rune",
+            "set": "OPP",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Order Rune",
+            "set": "OPP",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Fury Rune",
+            "set": "OPP",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Mind Rune",
+            "set": "OPP",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Teemo - Scout (GG EZ)",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Body Rune",
+            "set": "OPP",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Volibear - Relentless Storm",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Viktor - Herald of the Arcane",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kai'Sa - Daughter of the Void",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Darius - Hand of Noxus",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jinx - Loose Cannon",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lee Sin - Blind Monk",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ahri - Nine-Tailed Fox",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Yasuo - Unforgiven",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Leona - Radiant Dawn",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Void Seeker",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Pakaa Cub",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "World Atlas",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Discipline",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Wielder of Water",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stealthy Pursuer",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Daring Poro",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Riptide Rex",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stormclaw Ursine",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Blazing Scorcher",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Chaos Rune",
+            "set": "OPP",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Vanguard Captain",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Consult the Past",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Challenge",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Vengeance",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Pouty Poro",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stalwart Poro",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stacked Deck",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Sinister Poro",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lillia - Protector of Dreams",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Zilean - Time Mage",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jayce - Man of Progress",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rengar - Trophy Hunter",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yuumi - Magical Cat",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Poppy - Defender of the Meek",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Undying Loyalty",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Ultrasoft Poro",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Loyal Poro",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stare Down",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Voracious Gromp",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Dragonsoul Sage",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mosstomper",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mutated Mouser",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Soul Sword",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Miss Fortune - Bounty Hunter",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Mister Root",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lunar Boon",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Gustwalker",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Icevale Archer",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Downstage Dramatics",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Scorchclaw",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Upstage Comedy",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Arena Kingpin",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ashe - Focused",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Flash",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Viktor - Leader",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jinx - Rebel",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lee Sin - Ascetic",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sett - The Boss",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Teemo - Swift Scout",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Garen - Rugged",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Unsung Hero",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Doran's Ring",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Annie - Stubborn",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Harpoon Squad",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Treasure Hunter",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Doran's Blade",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Master Yi - Honed",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fae Dragon",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Laurent Duelist",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sea Monkey",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Cloth Armor",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Lux - Illuminated",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Production Surge",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Frostcoat Cub",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Doran's Shield",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Master Yi - Meditative",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ezreal - Prodigal Explorer (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Sivir - Battle Mistress (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rumble - Mechanized Menace (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rek'sai - Void Burrower (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ornn - Fire Below the Mountain (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lucian - Purifier (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jax - Grandmaster At Arms (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Irelia - Blade Dancer (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Fiora - Grand Duelist (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Stellacorn Herder",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Draven - Glorious Executioner (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Azir - Emperor of the Sands (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Renata Glasc - Chem-Baroness (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Boneshiver",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Eye of the Herald",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Garen - Commander",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lux - Crownguard",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ahri - Nine-Tailed Fox (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Annie - Dark Child (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Sett - The Boss (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Miss Fortune - Bounty Hunter (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Viktor - Herald of the Arcane (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Teemo - Swift Scout (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Leona - Radiant Dawn (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Yasuo - Unforgiven (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lee Sin - Blind Monk (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Master Yi - Wuju Bladesman (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Darius - Hand of Noxus (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jinx - Loose Cannon (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Volibear - Relentless Storm (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kai'Sa - Daughter of the Void (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Blitzcrank - Impassive",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Tryndamere - Barbarian",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Miss Fortune - Buccaneer",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lux - Lady of Luminosity",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Navori Scout",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Serrated Dirk",
+            "set": "OPP",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Annie - Fiery",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Gem Jammer",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Blast Corps Cadet",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Decisive Strike",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Garen - Might of Demacia",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Final Spark",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Ravenbloom Student",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Highlander",
+            "set": "OPP",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Master Yi - Wuju Bladesman",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Tibbers",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Annie - Dark Child",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Yone - Blademaster",
+            "set": "OPP",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Garen - Might of Demacia (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lux - Lady of Luminosity (Metal)",
+            "set": "OPP",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Viktor - Leader",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vi - Destructive",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jinx - Rebel",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Heimerdinger - Inventor",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Caitlyn - Patrolling",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Warwick - Hunter",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Aspirant's Climb",
+            "set": "PR",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "The Grand Plaza",
+            "set": "PR",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "Bandle Tree",
+            "set": "PR",
+            "card_type": "Battlefield"
+        },
+        {
+            "name": "Teemo - Swift Scout (Alternate Art)",
+            "set": "PR",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Teemo - Scout",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ahri - Alluring (Launch Exclusive)",
+            "set": "PR",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Royal Entourage",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Darius - Executioner (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Darius - Executioner (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Frostcoat Cub",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Loyal Pup",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Draven - Audacious (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rek'Sai - Swarm Queen (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fiora - Worthy (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Draven - Glorious Executioner (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Fiora - Grand Duelist (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Void Hatchling",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Azir - Sovereign (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yone - Blademaster (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yone - Blademaster (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lucian - Purifier (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rek'sai - Void Burrower (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ornn - Forge God (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ezreal - Dashing (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Prize of Progress",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ornn - Blacksmith (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Needlessly Large Yordle",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jax - Unmatched (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Azir - Ascendant (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Gold // Buff",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Irelia - Graceful (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Renata Glasc - Chem-Baroness (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Draven - Vanquisher (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Irelia - Fervent (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lucian - Merciless (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Irelia - Blade Dancer (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ahri - Inquisitive (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rumble - Mechanized Menace",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lucian - Purifier",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rek'sai - Void Burrower",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ornn - Fire Below the Mountain",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Renata Glasc - Chem-Baroness",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Sivir - Battle Mistress",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jax - Grandmaster At Arms",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Azir - Emperor of the Sands",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Irelia - Blade Dancer",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Draven - Glorious Executioner",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Draven - Vanquisher",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ahri - Inquisitive (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Buhru Captain",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Called Shot",
+            "set": "SFD",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Kato the Arm",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jax - Unrelenting",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jax - Unrelenting (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ezreal - Prodigal Explorer",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Fiora - Grand Duelist",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Irelia - Fervent (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Irelia - Fervent (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Seal of Discord (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Rumble - Mechanized Menace (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ornn - Fire Below the Mountain (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Vayne - Hunter (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vayne - Hunter (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sett - Brawler (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sett - Brawler (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Seal of Focus (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Seal of Strength (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Recurve Bow",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Ezreal - Prodigy (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rumble - Hotheaded (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Perched Grimwyrm",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Serrated Dirk",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Sentinel Adept",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sandshifter",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Eminent Benefactor",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Harpoon Squad",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ribbon Dancer",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Temptation",
+            "set": "SFD",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Navori Scout",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Master Bingwen",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fae Porter",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Marching Orders",
+            "set": "SFD",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Ancient Henge",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Sivir - Ambitious (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sivir - Ambitious",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Renata Glasc - Industrialist (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lucian - Gunslinger",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Armed Assailant",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Seal of Rage (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Aphelios - Exalted (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Aphelios - Exalted (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Seal of Insight (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Seal of Unity (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Soraka - Wanderer (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Soraka - Wanderer (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jax - Grandmaster At Arms (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Azir - Emperor of the Sands (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ezreal - Prodigal Explorer (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Sivir - Battle Mistress (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rek'Sai - Breacher (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Bard - Mercurial (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lucian - Gunslinger (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sivir - Mercenary (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fiora - Peerless (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rumble - Scrapper (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Renata Glasc - Mastermind (Alternate Art)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Combat Chef",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Temporal Portal",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Bard - Mercurial (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Teemo - Strategist (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Teemo - Strategist (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yasuo - Windrider (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Petricite Monument",
+            "set": "SFD",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Yasuo - Windrider (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Karma - Channeler (Overnumbered)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Karma - Channeler (Signature)",
+            "set": "SFD",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Poppy - Defender of the Meek",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Poppy - Paragon (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vi - Peacekeeper (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Poppy - Defender of the Meek (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jhin - Virtuoso (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rengar - Pridestalker (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Prepared Neophyte",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Targonian Visionary",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Master Yi - Wuju Master (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rengar - Pridestalker (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Pyke - Bloodharbor Ripper (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jhin - Virtuoso (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Diana - Lunari (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "LeBlanc - Fragmented (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sumpworks Map",
+            "set": "UNL",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Vi - Piltover Enforcer (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Vi - Piltover Enforcer (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Red Brambleback (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Fate Weaver",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yeti Brawler",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Baron Nashor (Ultimate)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Scorchclaw",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Monster Harpoon",
+            "set": "UNL",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Pyke - Bloodharbor Ripper (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Master Yi - Wuju Master (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Vex - Gloomist (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Vex - Gloomist (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "LeBlanc - Deceiver (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "LeBlanc - Deceiver (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Dramatic Visionary",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vicious Snapjaws",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lillia - Fae Fawn (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vex - Mocking (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Syndra - Transcendent",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Bandle Soldier",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Soul Harvest",
+            "set": "UNL",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Moonlight Affliction",
+            "set": "UNL",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Maduli the Gatekeeper",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vex - Apathetic (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Imposing Challenger",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Diana - No Longer Human (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Diana - Scorn of the Moon (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ivern - Green Father (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ivern - Green Father (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lillia - Bashful Bloom (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lillia - Bashful Bloom (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jhin - Virtuoso",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ivern - Friend to All (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Diana - Scorn of the Moon (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Crescent Guardian",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vilemaw (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Master Yi - Unstoppable (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jhin - Murderous Artist (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Dancing Grenade",
+            "set": "UNL",
+            "card_type": "Spell"
+        },
+        {
+            "name": "Icevale Archer",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lillia - Protector of Dreams",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lillia - Protector of Dreams (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vi - Hotheaded (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Poppy - Keeper of the Hammer",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Poppy - Keeper of the Hammer (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Poppy - Keeper of the Hammer (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kha'Zix - Voidreaver (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "LeBlanc - Deceiver",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kha'Zix - Voidreaver (Signature)",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Crowd Favorite",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ivern - Green Father",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Kha'Zix - Voidreaver",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Diana - Scorn of the Moon",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lillia - Bashful Bloom",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jhin - Meticulous Killer (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vi - Piltover Enforcer",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rengar - Trophy Hunter (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vex - Gloomist",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Baron Nashor (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Pyke - Dockside Butcher (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kha'Zix - Mutating Horror (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rengar - Unseen (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Blue Sentinel (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Gustwalker",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Zilean - Time Mage",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Rift Herald (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kha'Zix - Evolving Hunter (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Scrutinizing Sergeant",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Cursed Sarcophagus",
+            "set": "UNL",
+            "card_type": "Gear"
+        },
+        {
+            "name": "Pyke - Returned (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sinister Poro",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Master Yi - Tempered (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "LeBlanc - Everywhere At Once (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ivern - Nurturer (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Elder Dragon (Alternate Art)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mageseeker Investigator",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Daring Poro (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mystic Poro (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Plundering Poro (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Lonely Poro (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Pouty Poro (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Master Yi - Wuju Master",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Pyke - Bloodharbor Ripper",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rengar - Pridestalker",
+            "set": "UNL",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Veteran Poro (Overnumbered)",
+            "set": "UNL",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Shadow Assassin",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Shen, Leader of the Kinkou Order (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Shen, Scourge of Shadows (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sky Cruiser",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sett, Brawler",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sacred Protector",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Akali - Rogue Assassin (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Akali - Rogue Assassin",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rengar, Trophy Hunter",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Renekton, Rage Fueled (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Zed, Without a Sound (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Zed, From the Shadows (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Zed, From the Shadows (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sona, Harmonious",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Viktor, Innovator",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Vi, Destructive",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mel - Soul's Reflection",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Mel - Soul's Reflection (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Mel, Defiant Soul (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ambessa - Matriarch of War (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ambessa - Matriarch of War",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Zed - Master of Shadows (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Zed - Master of Shadows",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Lux, Crownguard",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kinkou Lifeblade",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mel, Newly Awakened (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kha'Zix, Evolving Hunter",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kennen, Keeper of Balance (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jinx, Demolitionist (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jayce, Man of Progress",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jayce, Hammer in Hand (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Order Rune",
+            "set": "VEN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Nasus, Guardian of Knowledge (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Nasus, Ascended (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Mind Rune",
+            "set": "VEN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Draven, Showboat",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Baccai Sandspinner",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Stargazer",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Sandstone Chimera",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Pakaa Protector",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Irelia, Fervent",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Leona, Determined",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Kai'Sa, Survivor",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Diana, No Longer Human",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Hungry Wolf",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Defender of Tomorrow",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Fretful Feline",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Matriarch of War",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Master of Shadows",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Rogue Assassin",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Butcher of the Sands",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Dame the Despoiler",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Curator of the Sands",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Cloud Drake",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Chaos Rune",
+            "set": "VEN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Calm Rune",
+            "set": "VEN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Esteemed Hierophant",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Body Rune",
+            "set": "VEN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Ahri, Inquisitive",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jinx, Demolitionist",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Heart of the Tempest",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Fury Rune",
+            "set": "VEN",
+            "card_type": "Rune"
+        },
+        {
+            "name": "Eye of Twilight",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Renekton - Butcher of the Sands (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Jayce - Defender of Tomorrow",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Nasus - Curator of the Sands",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Nasus - Curator of the Sands (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Renekton - Butcher of the Sands",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Ambessa, Respected and Feared (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Akali, Silent (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Illaoi, Prophet of the Great Kraken (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Horns of the Dragon",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Yordle, Kennen - Heart of the Tempest",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Yordle, Kennen - Heart of the Tempest (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Gangplank, Naval (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Ezreal, Prodigy",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Shen - Eye of Twilight",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Shen - Eye of Twilight (Overnumbered)",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Soul's Reflection",
+            "set": "VEN",
+            "card_type": "Legend"
+        },
+        {
+            "name": "Akali, Deadly Weapon (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        },
+        {
+            "name": "Jayce, Brilliant Inventor (Alternate Art)",
+            "set": "VEN",
+            "card_type": "Unit"
+        }
+    ],
+    "unmatched_riftdecks_stats": [
+        {
+            "name": "Corinna Veraza",
+            "set": "SFD",
+            "card_type": "Unit",
+            "play_rate": 0,
+            "win_rate": null
+        }
+    ]
+}
