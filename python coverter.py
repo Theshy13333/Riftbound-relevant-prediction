@@ -10,6 +10,7 @@ import requests
 # SETTINGS
 # =========================================================
 
+
 RIFTCODEX_URL = "https://api.riftcodex.com/cards"
 
 # Every time you download new RiftDecks stats,
