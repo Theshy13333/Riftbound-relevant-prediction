@@ -1,6 +1,7 @@
 import json
 import re
 import unicodedata
+from html.parser import HTMLParser
 from pathlib import Path
 
 import requests
@@ -23,6 +24,12 @@ OUTPUT_FILE = "riftbound_dataset.json"
 REPORT_FILE = "dataset_report.json"
 
 PAGE_SIZE = 100
+
+PRINTING_SUFFIX = re.compile(
+    r"(?:\s*\((?:Alternate Art|Overnumbered|Signature|Metal|Ultimate|"
+    r"Launch Exclusive|GG EZ|Starter)\))+\s*$",
+    re.IGNORECASE
+)
 
 # Any sets in this list will NEVER be included.
 EXCLUDED_SETS = {
@@ -53,7 +60,7 @@ def normalize_name(name):
 
     name = unicodedata.normalize(
         "NFKD",
-        str(name)
+        PRINTING_SUFFIX.sub("", str(name))
     )
 
     name = "".join(
@@ -89,6 +96,26 @@ def normalize_type(card_type):
 # LOAD RIFTDECKS LAST-15-DAYS STATS
 # =========================================================
 
+class StatsRangeParser(HTMLParser):
+    """Read the explicitly selected range from the RiftDecks filter."""
+
+    def __init__(self):
+        super().__init__()
+        self.in_stats_range = False
+        self.selected_range = None
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "select":
+            self.in_stats_range = attrs.get("id") == "stats-range"
+        elif tag == "option" and self.in_stats_range and "selected" in attrs:
+            self.selected_range = attrs.get("value")
+
+    def handle_endtag(self, tag):
+        if tag == "select":
+            self.in_stats_range = False
+
+
 def load_riftdecks_stats(filename):
 
     print()
@@ -98,6 +125,15 @@ def load_riftdecks_stats(filename):
         encoding="utf-8",
         errors="replace"
     )
+
+    range_parser = StatsRangeParser()
+    range_parser.feed(html)
+    if range_parser.selected_range != "last_15_days":
+        raise ValueError(
+            f"Expected Last 15 Days stats in '{filename}'; "
+            f"selected range is {range_parser.selected_range!r}. "
+            "Download the Last 15 Days snapshot from RiftDecks."
+        )
 
     match = re.search(
         r'var\s+DATA\s*=\s*(\[[\s\S]*?\]);',
@@ -199,7 +235,7 @@ def download_all_riftcodex_cards():
             print("ERROR contacting RiftCodex:")
             print(error)
 
-            raise SystemExit
+            raise SystemExit(1) from error
 
 
         data = response.json()
@@ -359,6 +395,7 @@ def is_special_printing(card):
         card.get("_alternate_art", False)
         or card.get("_signature", False)
         or card.get("_overnumbered", False)
+        or PRINTING_SUFFIX.search(str(card.get("name") or "")) is not None
     )
 
 
